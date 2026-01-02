@@ -13,9 +13,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description |
 |---|---|---|
-| [BreakIntoTech](#breakintotech) | Data analysis, data cleaning | Thanks to a L&D opportunity provided during one of my startup co-ops, this Data Analytics course provided 100+ practice problems, guided projects, and portfolio building, using data from Fortune 500, Spotify, Climate Conferences, and more to practice our SQL skills. |
-| [HackerRank](#hackerrank) |  Data analysis | Various practice questions of varying difficulty focusing on subdomains like select queries, aggregations, joins, and more. |
-| [SQLZoo](#sqlzoo) | Data analysis | Answering easy, medium, and hard questions for calls to a support desk (ex. calls received per hour and the associated manager, companies with the most calls), managing bookings for a hotel (ex. total amount payable by guest, number of bookings per day, total occupants checked-in), and Adventure Works wholesaler (ex. main office and shipping address of each customer, all orders for a certain product, companies with orders >$100,000).
+| [BreakIntoTech](https://github.com/itsmichelletrinh/BreakIntoTech) | Data analysis, data cleaning | Thanks to a L&D opportunity provided during one of my startup co-ops, this Data Analytics course provided 100+ practice problems, guided projects, and portfolio building, using data from Fortune 500, Spotify, Climate Conferences, and more to practice our SQL skills. |
+| [HackerRank](https://github.com/itsmichelletrinh/HackerRank) |  Data analysis | Various practice questions of varying difficulty focusing on subdomains like select queries, aggregations, joins, and more. |
+| [SQLZoo](https://github.com/itsmichelletrinh/SQLZoo) | Data analysis | Answering easy, medium, and hard questions for calls to a support desk (ex. calls received per hour and the associated manager, companies with the most calls), managing bookings for a hotel (ex. total amount payable by guest, number of bookings per day, total occupants checked-in), and Adventure Works wholesaler (ex. main office and shipping address of each customer, all orders for a certain product, companies with orders >$100,000).
 
 ***
 
