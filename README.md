@@ -43,7 +43,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description |  
 |---|---|---|
-| [CS116 - Intro to Computer Science 2 Course](#cs116) | Programming | A compilation of all the code and solutions to assignment problems for CS116, a computer science course I had taken during university. | 
+| [CS116 - Intro to Computer Science 2 Course](https://github.com/itsmichelletrinh/Python) | Programming | A compilation of all the code and solutions to assignment problems for CS116, a computer science course I had taken during university. | 
 
 ***
 
