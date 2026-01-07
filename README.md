@@ -33,7 +33,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description |
 |---|---|---|
-| [Measuring Biodiversity](#measuringbiodiversity) | Biodiversity analysis | In my Conservation Biology class, we analyzed the biodiversity difference between 3 habitat types (Reference, Treated, Phragmites) at 2 separate locations (LPNWA and BCNWA) to propose which location to protect to maximize conservation of biodiversity. | 
+| [Measuring Biodiversity](https://github.com/itsmichelletrinh/R/tree/main/Measuring%20Biodiversity) | Biodiversity analysis | In my Conservation Biology class, we analyzed the biodiversity difference between 3 habitat types (Reference, Treated, Phragmites) at 2 separate locations (LPNWA and BCNWA) to propose which location to protect to maximize conservation of biodiversity. | 
 | [Bioinformatics](#bioinformatics) | Bioinformatics analysis | Sample assignments include: given an unknown FASTA file containing the genetic code for a contig, examine the location and length of genes, open reading frames, and translate genes into their protein sequences. Additionally, perform multiple sequence alignments, produce phylogenetics trees, and use maximum likelihood analysis for model selection.
 
 ***
