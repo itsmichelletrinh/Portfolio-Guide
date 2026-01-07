@@ -48,10 +48,10 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 # Tableau
 
-| Project Link | Project Description | Dashboard Link |
+| Project | Project Description | Dashboard Link |
 |---|---|---|
-| [Superstore Overview Dashboard](#superstoreoverviewdashboard) | Visualized key insights using Tableau for superstore data from 2018-2021, including total sales, profit, number of orders, number of customers, and further sales breakdown by state, segment, ship mode, product category, product sub-category, and top customers. | [Dashboard](https://public.tableau.com/views/SuperstoreDashboard_17654889263720/OverviewDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | 
-| [Executive Overview Dashboard](#executiveoverviewdashboard) | Dashboard built as a guided project from BreakIntoTech Data Analytics course that provides high-level executive overview as a snapshot of key business performance metrics. | [Dashboard](https://public.tableau.com/views/ExecutiveOverview_17653972745130/ExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | 
-| [Other Dashboards](#otherdashboards) | Feel free to browse my Tableau Public profile for other dashboards I have created throughout my journey of learning Tableau. Some examples include World COVID Data, a World Happiness Report, and an Order Data dashboard. | [Profile](https://public.tableau.com/app/profile/michelle.trinh/vizzes) | 
+| Superstore Overview Dashboard| Visualized key insights using Tableau for superstore data from 2018-2021, including total sales, profit, number of orders, number of customers, and further sales breakdown by state, segment, ship mode, product category, product sub-category, and top customers. | [Dashboard](https://public.tableau.com/views/SuperstoreDashboard_17654889263720/OverviewDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | 
+| Executive Overview Dashboard| Dashboard built as a guided project from BreakIntoTech Data Analytics course that provides high-level executive overview as a snapshot of key business performance metrics. | [Dashboard](https://public.tableau.com/views/ExecutiveOverview_17653972745130/ExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | 
+| Other Dashboards | Feel free to browse my Tableau Public profile for other dashboards I have created throughout my journey of learning Tableau. Some examples include World COVID Data, a World Happiness Report, and an Order Data dashboard. | [Profile](https://public.tableau.com/app/profile/michelle.trinh/vizzes) | 
 
 ***
